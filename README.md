@@ -21,7 +21,7 @@ Installation
 2. Ouvrez le projet dans NetBeans.
 3. Configurez la connexion à la base de données.
    - Créez une base de données dans MySQL.
-   - Importez le script SQL fourni dans le dossier `database`.
+   - Importez le script SQL fourni dans le fichier `MyData.sql`.
    - Mettez à jour les paramètres de connexion dans le fichier de configuration.
 4. Compilez et exécutez le projet.
 
