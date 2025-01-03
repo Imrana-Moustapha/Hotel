@@ -17,7 +17,7 @@ Prérequis
 
 Installation
 
-1. Clonez ce dépôt : `git clone https://github.com/ton-compte/nom-du-repo.git`
+1. Clonez ce dépôt : `https://github.com/Imrana-Moustapha/Hôtel`
 2. Ouvrez le projet dans NetBeans.
 3. Configurez la connexion à la base de données.
    - Créez une base de données dans MySQL.
